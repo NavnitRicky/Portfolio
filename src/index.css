@@ -1,0 +1,7 @@
+
+@import './style/variables.css';
+@import './style/base.css';
+@import './style/components.css';
+@import './style/animations.css';
+
+/* Additional global styles can be added here */
